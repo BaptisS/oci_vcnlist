@@ -5,7 +5,7 @@
 #!/bin/sh
 rm -f vcnlist_allregions.log
 
-#Milan-1
+#Region-1
 export region="region"
 
 rm -f vcnlist-$region.log
